@@ -1,0 +1,63 @@
+410 Rue Saint-Anselme, Québec, QC G1K 5T2, Canada
+489-36-8350 	4929-3813-3266-4295
+
+
+410 Rue Saint-Anselme, Québec, QC G1K 5T2, Canada
+489-36-8350 	4929-3813-3266-4295
+
+
+
+
+12-19 13:55:01.486 6896 INFO   Starting the EPP service. Version: 5.8.2.5, WinVer: 6.2.9200 x64, SDKVer: 0x0601 (0x0601), ticks: 17312 [CSIEService::SiEStartService SIEService.cpp:754]
+
+Sda
+S
+asdasd
+<style>
+	line {
+		fill="#E6E6E6";
+		stroke="#cccccc";
+		stroke-linecap="round";
+		stroke-miterlimit="10";
+	}
+
+	path {
+		fill="none";
+		stroke="#cccccc";
+		stroke-linecap="round";
+		stroke-miterlimit="10";asdsadas
+	}
+polyline {
+		fill="none";
+		stroke="#cccccc";
+		stroke-linecap="round";
+		stroke-miterlimit="10"
+	}
+	
+
+
+adas
+@media (prefers-color-scheme: dark) {
+	line {
+		fill="#E6E6E6";
+		stroke="#00ff00";
+		stroke-linecap="round";
+		stroke-miterlimit="10";
+	}
+
+	path {
+		fill="none";
+		stroke="#00ff00";
+		stroke-linecap="round";
+		stroke-miterlimit="10";
+	}
+
+	polyline {
+		fill="none";
+		stroke="#00ff00";
+		stroke-linecap="round";
+		stroke-miterlimit="10"
+	}
+}
+
+</style>
